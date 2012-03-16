@@ -1,10 +1,7 @@
 package com.nolanlawson.customfastscrollviewdemo;
 
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -99,30 +96,33 @@ public class CountryAdapter extends ArrayAdapter<Country> implements SectionInde
 	}
 
 
+	/**
+	 * Create a SectionIndexer given an arbitrary function mapping countries to their section name.
+	 * @param countries
+	 * @param sectionFunction
+	 * @return
+	 */
 	private SectionIndexer createByContinentSectionIndexer(
-			List<Country> countries, Function<Country, String> function) {
+			List<Country> countries, Function<Country, String> sectionFunction) {
 	
-		List<Country> sortedCountries = new ArrayList<Country>(countries);
-		Collections.sort(sortedCountries, countrySorting.getComparator());
-		
 		List<String> sections = new ArrayList<String>();
-		final Map<Integer, Integer> sectionsToPositions = new HashMap<Integer, Integer>();
-		final Map<Integer, Integer> positionsToSections = new HashMap<Integer, Integer>();
+		final List<Integer> sectionsToPositions = new ArrayList<Integer>();
+		final List<Integer> positionsToSections = new ArrayList<Integer>();
 		
 		
 		// assume the countries are properly sorted
-		for (int i = 0; i < sortedCountries.size(); i++) {
-			Country country = sortedCountries.get(i);
-			String section = function.apply(country);
+		for (int i = 0; i < countries.size(); i++) {
+			Country country = countries.get(i);
+			String section = sectionFunction.apply(country);
 			if (sections.isEmpty() || !sections.get(sections.size() - 1).equals(section)) {
 				// add a new section
 				sections.add(section);
+				// map section to position
+				sectionsToPositions.add(i);
 			}
 			
-			// map section to position and vice versa
-			int sectionIndex = sections.size() - 1;
-			sectionsToPositions.put(sectionIndex, i);
-			positionsToSections.put(i, sectionIndex);
+			// map position to section
+			positionsToSections.add(sections.size() - 1);
 		}
 		
 		final String[] sectionsArray = sections.toArray(new String[sections.size()]);
