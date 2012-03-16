@@ -1,0 +1,262 @@
+Asia	Afghanistan, Islamic Republic of
+Europe	Albania, Republic of
+Antarctica	Antarctica (the territory South of 60 deg S)
+Africa	Algeria, People's Democratic Republic of
+Oceania	American Samoa
+Europe	Andorra, Principality of
+Africa	Angola, Republic of
+N. America	Antigua and Barbuda
+Europe	Azerbaijan, Republic of
+Asia	Azerbaijan, Republic of
+S. America	Argentina, Argentine Republic
+Oceania	Australia, Commonwealth of
+Europe	Austria, Republic of
+N. America	Bahamas, Commonwealth of the
+Asia	Bahrain, Kingdom of
+Asia	Bangladesh, People's Republic of
+Europe	Armenia, Republic of
+Asia	Armenia, Republic of
+N. America	Barbados
+Europe	Belgium, Kingdom of
+N. America	Bermuda
+Asia	Bhutan, Kingdom of
+S. America	Bolivia, Republic of
+Europe	Bosnia and Herzegovina
+Africa	Botswana, Republic of
+Antarctica	Bouvet Island (Bouvetoya)
+S. America	Brazil, Federative Republic of
+N. America	Belize
+Asia	British Indian Ocean Territory (Chagos Archipelago)
+Oceania	Solomon Islands
+N. America	British Virgin Islands
+Asia	Brunei Darussalam
+Europe	Bulgaria, Republic of
+Asia	Myanmar, Union of
+Africa	Burundi, Republic of
+Europe	Belarus, Republic of
+Asia	Cambodia, Kingdom of
+Africa	Cameroon, Republic of
+N. America	Canada
+Africa	Cape Verde, Republic of
+N. America	Cayman Islands
+Africa	Central African Republic
+Asia	Sri Lanka, Democratic Socialist Republic of
+Africa	Chad, Republic of
+S. America	Chile, Republic of
+Asia	China, People's Republic of
+Asia	Taiwan
+Asia	Christmas Island
+Asia	Cocos (Keeling) Islands
+S. America	Colombia, Republic of
+Africa	Comoros, Union of the
+Africa	Mayotte
+Africa	Congo, Republic of the
+Africa	Congo, Democratic Republic of the
+Oceania	Cook Islands
+N. America	Costa Rica, Republic of
+Europe	Croatia, Republic of
+N. America	Cuba, Republic of
+Europe	Cyprus, Republic of
+Asia	Cyprus, Republic of
+Europe	Czech Republic
+Africa	Benin, Republic of
+Europe	Denmark, Kingdom of
+N. America	Dominica, Commonwealth of
+N. America	Dominican Republic
+S. America	Ecuador, Republic of
+N. America	El Salvador, Republic of
+Africa	Equatorial Guinea, Republic of
+Africa	Ethiopia, Federal Democratic Republic of
+Africa	Eritrea, State of
+Europe	Estonia, Republic of
+Europe	Faroe Islands
+S. America	Falkland Islands (Malvinas)
+Antarctica	South Georgia and the South Sandwich Islands
+Oceania	Fiji, Republic of the Fiji Islands
+Europe	Finland, Republic of
+Europe	Aland Islands
+Europe	France, French Republic
+S. America	French Guiana
+Oceania	French Polynesia
+Antarctica	French Southern Territories
+Africa	Djibouti, Republic of
+Africa	Gabon, Gabonese Republic
+Europe	Georgia
+Asia	Georgia
+Africa	Gambia, Republic of the
+Asia	Palestinian Territory, Occupied
+Europe	Germany, Federal Republic of
+Africa	Ghana, Republic of
+Europe	Gibraltar
+Oceania	Kiribati, Republic of
+Europe	Greece, Hellenic Republic
+N. America	Greenland
+N. America	Grenada
+N. America	Guadeloupe
+Oceania	Guam
+N. America	Guatemala, Republic of
+Africa	Guinea, Republic of
+S. America	Guyana, Co-operative Republic of
+N. America	Haiti, Republic of
+Antarctica	Heard Island and McDonald Islands
+Europe	Holy See (Vatican City State)
+N. America	Honduras, Republic of
+Asia	Hong Kong, Special Administrative Region of China
+Europe	Hungary, Republic of
+Europe	Iceland, Republic of
+Asia	India, Republic of
+Asia	Indonesia, Republic of
+Asia	Iran, Islamic Republic of
+Asia	Iraq, Republic of
+Europe	Ireland
+Asia	Israel, State of
+Europe	Italy, Italian Republic
+Africa	Cote d'Ivoire, Republic of
+N. America	Jamaica
+Asia	Japan
+Europe	Kazakhstan, Republic of
+Asia	Kazakhstan, Republic of
+Asia	Jordan, Hashemite Kingdom of
+Africa	Kenya, Republic of
+Asia	Korea, Democratic People's Republic of
+Asia	Korea, Republic of
+Asia	Kuwait, State of
+Asia	Kyrgyz Republic
+Asia	Lao People's Democratic Republic
+Asia	Lebanon, Lebanese Republic
+Africa	Lesotho, Kingdom of
+Europe	Latvia, Republic of
+Africa	Liberia, Republic of
+Africa	Libyan Arab Jamahiriya
+Europe	Liechtenstein, Principality of
+Europe	Lithuania, Republic of
+Europe	Luxembourg, Grand Duchy of
+Asia	Macao, Special Administrative Region of China
+Africa	Madagascar, Republic of
+Africa	Malawi, Republic of
+Asia	Malaysia
+Asia	Maldives, Republic of
+Africa	Mali, Republic of
+Europe	Malta, Republic of
+N. America	Martinique
+Africa	Mauritania, Islamic Republic of
+Africa	Mauritius, Republic of
+N. America	Mexico, United Mexican States
+Europe	Monaco, Principality of
+Asia	Mongolia
+Europe	Moldova, Republic of
+Europe	Montenegro, Republic of
+N. America	Montserrat
+Africa	Morocco, Kingdom of
+Africa	Mozambique, Republic of
+Asia	Oman, Sultanate of
+Africa	Namibia, Republic of
+Oceania	Nauru, Republic of
+Asia	Nepal, State of
+Europe	Netherlands, Kingdom of the
+N. America	Netherlands Antilles
+N. America	Curacao
+N. America	Aruba
+N. America	Sint Maarten (Netherlands)
+N. America	Bonaire, Sint Eustatius and Saba
+Oceania	New Caledonia
+Oceania	Vanuatu, Republic of
+Oceania	New Zealand
+N. America	Nicaragua, Republic of
+Africa	Niger, Republic of
+Africa	Nigeria, Federal Republic of
+Oceania	Niue
+Oceania	Norfolk Island
+Europe	Norway, Kingdom of
+Oceania	Northern Mariana Islands, Commonwealth of the
+Oceania	United States Minor Outlying Islands
+N. America	United States Minor Outlying Islands
+Oceania	Micronesia, Federated States of
+Oceania	Marshall Islands, Republic of the
+Oceania	Palau, Republic of
+Asia	Pakistan, Islamic Republic of
+N. America	Panama, Republic of
+Oceania	Papua New Guinea, Independent State of
+S. America	Paraguay, Republic of
+S. America	Peru, Republic of
+Asia	Philippines, Republic of the
+Oceania	Pitcairn Islands
+Europe	Poland, Republic of
+Europe	Portugal, Portuguese Republic
+Africa	Guinea-Bissau, Republic of
+Asia	Timor-Leste, Democratic Republic of
+N. America	Puerto Rico, Commonwealth of
+Asia	Qatar, State of
+Africa	Reunion
+Europe	Romania
+Europe	Russian Federation
+Asia	Russian Federation
+Africa	Rwanda, Republic of
+N. America	Saint Barthelemy
+Africa	Saint Helena
+N. America	Saint Kitts and Nevis, Federation of
+N. America	Anguilla
+N. America	Saint Lucia
+N. America	Saint Martin
+N. America	Saint Pierre and Miquelon
+N. America	Saint Vincent and the Grenadines
+Europe	San Marino, Republic of
+Africa	Sao Tome and Principe, Democratic Republic of
+Asia	Saudi Arabia, Kingdom of
+Africa	Senegal, Republic of
+Europe	Serbia, Republic of
+Africa	Seychelles, Republic of
+Africa	Sierra Leone, Republic of
+Asia	Singapore, Republic of
+Europe	Slovakia (Slovak Republic)
+Asia	Vietnam, Socialist Republic of
+Europe	Slovenia, Republic of
+Africa	Somalia, Somali Republic
+Africa	South Africa, Republic of
+Africa	Zimbabwe, Republic of
+Europe	Spain, Kingdom of
+Africa	South Sudan
+Africa	Western Sahara
+Africa	Sudan, Republic of
+S. America	Suriname, Republic of
+Europe	Svalbard & Jan Mayen Islands
+Africa	Swaziland, Kingdom of
+Europe	Sweden, Kingdom of
+Europe	Switzerland, Swiss Confederation
+Asia	Syrian Arab Republic
+Asia	Tajikistan, Republic of
+Asia	Thailand, Kingdom of
+Africa	Togo, Togolese Republic
+Oceania	Tokelau
+Oceania	Tonga, Kingdom of
+N. America	Trinidad and Tobago, Republic of
+Asia	United Arab Emirates
+Africa	Tunisia, Tunisian Republic
+Europe	Turkey, Republic of
+Asia	Turkey, Republic of
+Asia	Turkmenistan
+N. America	Turks and Caicos Islands
+Oceania	Tuvalu
+Africa	Uganda, Republic of
+Europe	Ukraine
+Europe	Macedonia, Republic of
+Africa	Egypt, Arab Republic of
+Europe	United Kingdom of Great Britain & Northern Ireland
+Europe	Guernsey, Bailiwick of
+Europe	Jersey, Bailiwick of
+Europe	Isle of Man
+Africa	Tanzania, United Republic of
+N. America	United States of America
+N. America	United States Virgin Islands
+Africa	Burkina Faso
+S. America	Uruguay, Eastern Republic of
+Asia	Uzbekistan, Republic of
+S. America	Venezuela, Bolivarian Republic of
+Oceania	Wallis and Futuna
+Oceania	Samoa, Independent State of
+Asia	Yemen
+Africa	Zambia, Republic of
+Oceania	Disputed Territory
+Asia	Iraq-Saudi Arabia Neutral Zone
+Asia	United Nations Neutral Zone
+Asia	Spratly Islands

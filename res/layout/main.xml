@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:demoapp= "http://schemas.android.com/apk/res/com.nolanlawson.customfastscrollviewdemo"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+    <com.nolanlawson.customfastscrollviewdemo.CustomFastScrollView android:layout_width="wrap_content"
+            android:layout_height="0px" android:layout_weight="1" 
+            demoapp:overlayWidth="225dp" demoapp:overlayHeight="110dp" demoapp:overlayTextSize="36dp"
+            demoapp:overlayScrollThumbWidth="60dp" android:id="@+id/fast_scroll_view">
+            
+        <ListView android:id="@android:id/list" android:layout_width="wrap_content"
+            android:layout_height="fill_parent"/>
+        <TextView android:id="@android:id/empty"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="" />
+        
+    </com.nolanlawson.customfastscrollviewdemo.CustomFastScrollView>  
+    
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        
+        <Button android:id="@+id/sort_by_continent_button" android:layout_width="0px" android:layout_weight="0.5"
+            android:layout_height="wrap_content" android:text="@string/sort_by_continent"/>
+        
+        <Button android:id="@+id/sort_by_name_button" android:layout_width="0px" android:layout_weight="0.5"
+            android:layout_height="wrap_content" android:text="@string/sort_by_name"/>
+    </LinearLayout>
+
+</LinearLayout>
