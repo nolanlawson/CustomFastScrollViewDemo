@@ -7,6 +7,8 @@ In this example app, we have a list of countries sorted by their continent.  It 
 
 ![Example Image][1]
 
+See also [this Stack Overflow question][2].
+
 Developer
 =========
 
@@ -15,6 +17,8 @@ Nolan Lawson
 License
 =========
 
-Do whatever you want. WTFPL: http://sam.zoy.org/wtfpl/
+Do whatever you want ([WTFPL][3]).
 
 [1]: https://raw.github.com/nolanlawson/CustomFastScrollViewDemo/master/example.png
+[2]: http://stackoverflow.com/questions/3225092/fast-scroll-display-problem-with-listadapter-and-sectionindexer
+[3]: http://sam.zoy.org/wtfpl/
