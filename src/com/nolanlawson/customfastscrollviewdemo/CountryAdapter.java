@@ -77,7 +77,7 @@ public class CountryAdapter extends ArrayAdapter<Country> implements SectionInde
 		
 		switch (countrySorting) {
 			case ByContinent:
-				return createByContinentSectionIndexer(countries, new Function<Country,String>(){
+				return createSectionIndexer(countries, new Function<Country,String>(){
 
 					@Override
 					public String apply(Country input) {
@@ -85,7 +85,7 @@ public class CountryAdapter extends ArrayAdapter<Country> implements SectionInde
 					}});
 			case ByName:
 			default:
-				return createByContinentSectionIndexer(countries, new Function<Country,String>(){
+				return createSectionIndexer(countries, new Function<Country,String>(){
 
 					@Override
 					public String apply(Country input) {
@@ -102,7 +102,7 @@ public class CountryAdapter extends ArrayAdapter<Country> implements SectionInde
 	 * @param sectionFunction
 	 * @return
 	 */
-	private SectionIndexer createByContinentSectionIndexer(
+	private SectionIndexer createSectionIndexer(
 			List<Country> countries, Function<Country, String> sectionFunction) {
 	
 		List<String> sections = new ArrayList<String>();
