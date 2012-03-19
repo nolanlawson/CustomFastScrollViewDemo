@@ -24,6 +24,12 @@ import android.widget.ListView;
 public class CustomFastScrollView extends FrameLayout 
         implements OnScrollListener, OnHierarchyChangeListener {
 
+	// how much transparency to use for the fast scroll thumb
+    private static final int ALPHA_MAX = 255;
+    
+    // how long before the fast scroll thumb disappears
+    private static final long FADE_DURATION = 200;
+	
     private Drawable mCurrentThumb;
     private Drawable mOverlayDrawable;
 
@@ -154,10 +160,10 @@ public class CustomFastScrollView extends FrameLayout
         int alpha = -1;
         if (scrollFade.mStarted) {
             alpha = scrollFade.getAlpha();
-            if (alpha < ScrollFade.ALPHA_MAX / 2) {
+            if (alpha < ALPHA_MAX / 2) {
                 mCurrentThumb.setAlpha(alpha * 2);
             }
-            int left = viewWidth - (mThumbW * alpha) / ScrollFade.ALPHA_MAX;
+            int left = viewWidth - (mThumbW * alpha) / ALPHA_MAX;
             mCurrentThumb.setBounds(left, 0, viewWidth, mThumbH);
             mChangedBounds = true;
         }
@@ -219,7 +225,7 @@ public class CustomFastScrollView extends FrameLayout
         mVisibleItem = firstVisibleItem;
         if (!mThumbVisible || mScrollFade.mStarted) {
             mThumbVisible = true;
-            mCurrentThumb.setAlpha(ScrollFade.ALPHA_MAX);
+            mCurrentThumb.setAlpha(ALPHA_MAX);
         }
         mHandler.removeCallbacks(mScrollFade);
         mScrollFade.mStarted = false;
@@ -406,8 +412,6 @@ public class CustomFastScrollView extends FrameLayout
         long mStartTime;
         long mFadeDuration;
         boolean mStarted;
-        static final int ALPHA_MAX = 200;
-        static final long FADE_DURATION = 200;
 
         void startFade() {
             mFadeDuration = FADE_DURATION;
