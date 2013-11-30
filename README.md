@@ -3,6 +3,8 @@ Deprecation Notice
 
 This project has been deprecated in favor of the [SuperSaiyanScrollView](http://nolanlawson.com/2013/11/30/introducing-the-supersaiyanscollview-super-fast-sectioned-lists-for-android/), which works as a standalone library project and has an updated look for Holo devices.
 
+Original documentation follows.
+
 CustomFastScrollView Demo
 =========================
 
